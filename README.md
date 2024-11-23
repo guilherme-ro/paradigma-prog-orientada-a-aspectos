@@ -11,11 +11,13 @@ A proposta envolve criar uma função transversal ao código sendo aplicada em d
 
 O programa principal implementando em Paradigma Orientado a Objetos deve abordar as funções básicas da conta bancária, já a verificação de saldo, por estar presente em todas a contas, deve ser implementado em Paradigma Orientado a Aspectos.  Pode ser utilizada a linguagem Java com extensão da linguagem para aspectos "AspectJ".
 
+<p style="text-align:center;">
+
 ![Relação entre os objetos em uma conta bancária.](https://github.com/guilherme-ro/paradigma-prog-orientada-a-aspectos/blob/main/Diagrama%20Estrutural%20da%20Conta%20Banc%C3%A1ria.png?raw=true)
 
 **Figura:** Relação entre os objetos em uma conta bancária.
 
-
+ </p>
 
 
 
